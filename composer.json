@@ -1,6 +1,7 @@
 {
     "name": "wuwu/cosy-dev-tool",
     "description": "CosyFrame",
+    "license": "MIT",
     "require-dev": {
         "php": ">=7.1",
         "zzstudio/think-addons": "^2.0",
