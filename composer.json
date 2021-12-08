@@ -19,5 +19,6 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+    "wuwu/cosy-dev-tool": "dev-master"}
 }
