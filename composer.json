@@ -18,6 +18,6 @@
             "email": "1240035958@qq.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {}
 }
