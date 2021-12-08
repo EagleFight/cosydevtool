@@ -1,0 +1,22 @@
+{
+    "name": "wuwu/cosy-dev-tool",
+    "description": "CosyFrame",
+    "require-dev": {
+        "php": ">=7.1",
+        "zzstudio/think-addons": "^2.0",
+        "jaguarjack/migration-generator": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "wuwu\\cosydevtool\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "tangyanwu",
+            "email": "1240035958@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
